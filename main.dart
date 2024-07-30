@@ -13,7 +13,7 @@ void main() {
     "thursday",
     "friday"
   ];
-  List<String> information = ["ahmed", 12th, "4578", "A+", "87%"];
+  List<dynamic> information = ["ahmed", "12th", "4578", "A+", "87%"];
   print(names);
   print(days[1]);
   print(information);
